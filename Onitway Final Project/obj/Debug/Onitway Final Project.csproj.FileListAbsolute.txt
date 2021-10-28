@@ -1,0 +1,96 @@
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.exe.config
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.exe
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.pdb
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Form1.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Properties.Resources.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.exe
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.pdb
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Form2.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.frmLogin.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Home.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Student.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Admin_Panel.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Admin_Reports.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Adminlogin.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Employee.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Events.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Payments.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Salary.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.User_Registration.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Payments.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Employess.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Salary.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Students.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Reports.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Payment1.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Employee1.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Salary1.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Student1.resources
+C:\Users\Samsung\source\repos\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_User.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.exe.config
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.exe
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.pdb
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Admin_Panel.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Admin_Reports.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Adminlogin.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Employee.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Events.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Form1.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Form2.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.frmLogin.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Home.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Payments.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Reports.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Salary.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Student.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.User_Registration.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Payments.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Employee1.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Employess.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Payment1.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Salary.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Salary1.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Student1.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Students.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_User.resources
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.GenerateResource.cache
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.exe
+C:\Users\Samsung\Desktop\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.pdb
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.exe.config
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.exe
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\bin\Debug\Onitway Final Project.pdb
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.AssemblyReference.cache
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Admin_Panel.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Admin_Reports.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Adminlogin.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Employee.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Events.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Form1.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Form2.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.frmLogin.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Home.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Payments.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Properties.Resources.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Reports.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Salary.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.Student.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.User_Registration.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Payments.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Employee1.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Employess.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Payment1.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Salary.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Salary1.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Student1.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_Students.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway_Final_Project.View_User.resources
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.GenerateResource.cache
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.csproj.CoreCompileInputs.cache
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.exe
+D:\Final Project\Project\Onitway Final Project\Onitway Final Project\obj\Debug\Onitway Final Project.pdb
